@@ -2,31 +2,31 @@
 	{
 		"title":"Barcelona acerta contratação de Lewandowski, do Bayern de Munique",
 		"description":"Clube catalão chega a acordo e vai pagar 45 milhões de euros pelo craque polonês",
-		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/barcelona.jpg",
+		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/barcelona.jpeg",
 		"link":"https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/15/barcelona-acerta-contratacao-de-lewandowski-do-bayern-de-munique.ghtml"
 	},
 	{
 		"title":"Vem que eu peguei",
 		"description":"Jandrei conta bastidores sobre defesa decisiva em pênalti de Wesley",
-		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/jandrei.jpg",
+		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/jandrei.jpeg",
 		"link":"https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/07/15/vem-que-eu-peguei-jandrei-conta-bastidores-sobre-defesa-decisiva-em-penalti-de-wesley.ghtml"
 	},
 	{
 		"title":"O dilema Cristiano Ronaldo: por que a elite europeia não quer o craque?",
 		"description":"Aos 37 anos, atacante ainda oferece gols em profusão, mas tem se tornado cada vez mais difícil acomodá-lo nas premissas de jogo coletivo vigentes, com ênfase na pressão",
-		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/cristiano.jpg",
+		"image":"https://raw.githubusercontent.com/Srubens/api-dataDio/main/images/cristiano.jpeg",
 		"link":"https://ge.globo.com/futebol/futebol-internacional/blogs/gringolandia/post/2022/07/15/o-dilema-cristiano-ronaldo-por-que-a-elite-europeia-nao-quer-o-craque.ghtml"
 	},
 	{
 		"title":"Flamengo faz consulta por Oscar e se assusta com valores",
 		"description":"Jogador está na China, onde defende o Shanghai Port, desde 2017",
-		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/oscar.jpg",
+		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/oscar.jpeg",
 		"link":"https://ge.globo.com/futebol/times/flamengo/noticia/2022/07/15/flamengo-faz-consulta-por-oscar-e-se-assusta-com-valores.ghtml"
 	},
 	{
 		"title":"Escalação do Vasco: time deve ter cinco mudanças contra o Sampaio Corrêa",
 		"description":"Com suspensos e lesionados, Maurício Souza tem desafio para montar o time em São Luís",
-		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/vasco.jpg",
+		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/vasco.jpeg",
 		"link":"https://ge.globo.com/futebol/times/vasco/noticia/2022/07/15/escalacao-do-vasco-time-deve-ter-cinco-mudancas-contra-o-sampaio-correa.ghtml"
 	}
 ]
