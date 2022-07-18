@@ -1,32 +1,32 @@
 [
 	{
-		"title":"Barcelona acerta contratação de Lewandowski, do Bayern de Munique",
-		"description":"Clube catalão chega a acordo e vai pagar 45 milhões de euros pelo craque polonês",
-		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/barcelona.jpeg",
-		"link":"https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/15/barcelona-acerta-contratacao-de-lewandowski-do-bayern-de-munique.ghtml"
+		"title":"Muito rápido, de muito longe: veja em detalhes os golaços de Ceará x Corinthians",
+		"description":"Três gols do primeiro tempo chamam atenção por força e precisão",
+		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/ceara.jpeg",
+		"link":"https://ge.globo.com/sp/futebol/brasileirao-serie-a/noticia/2022/07/17/muito-rapido-de-muito-longe-veja-em-detalhes-os-golacos-de-ceara-x-corinthians.ghtml"
 	},
 	{
-		"title":"Vem que eu peguei",
-		"description":"Jandrei conta bastidores sobre defesa decisiva em pênalti de Wesley",
-		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/jandrei.jpeg",
-		"link":"https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/07/15/vem-que-eu-peguei-jandrei-conta-bastidores-sobre-defesa-decisiva-em-penalti-de-wesley.ghtml"
+		"title":"Flamengo inicia a venda de ingressos para jogo contra o Juventude",
+		"description":"Partida será disputada nesta quarta-feira, no Estádio Mané Garrincha. No último sábado, o time carioca venceu o Coritiba no mesmo local, com público de pouco mais de 33 mil torcedores",
+		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/flamengo.jpeg",
+		"link":"https://ge.globo.com/df/noticia/2022/07/18/flamengo-inicia-a-venda-de-ingressos-para-jogo-contra-o-juventude.ghtml"
 	},
 	{
-		"title":"O dilema Cristiano Ronaldo: por que a elite europeia não quer o craque?",
-		"description":"Aos 37 anos, atacante ainda oferece gols em profusão, mas tem se tornado cada vez mais difícil acomodá-lo nas premissas de jogo coletivo vigentes, com ênfase na pressão",
-		"image":"https://raw.githubusercontent.com/Srubens/api-dataDio/main/images/cristiano.jpeg",
-		"link":"https://ge.globo.com/futebol/futebol-internacional/blogs/gringolandia/post/2022/07/15/o-dilema-cristiano-ronaldo-por-que-a-elite-europeia-nao-quer-o-craque.ghtml"
+		"title":"Palmeiras x São Paulo: CBF indica erro do VAR por não traçar linha de impedimento em lance de Calleri",
+		"description":"Entidade divulga áudios da conversa de Leandro Vuaden com a equipe de vídeo; assista",
+		"image":"https://raw.githubusercontent.com/Srubens/api-dataDio/main/images/saopaulo.jpeg",
+		"link":"https://ge.globo.com/sp/futebol/copa-do-brasil/noticia/2022/07/16/palmeiras-x-sao-paulo-cbf-indica-erro-do-var-por-nao-tracar-linha-de-impedimento-em-lance-de-calleri.ghtml"
 	},
 	{
-		"title":"Flamengo faz consulta por Oscar e se assusta com valores",
-		"description":"Jogador está na China, onde defende o Shanghai Port, desde 2017",
-		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/oscar.jpeg",
-		"link":"https://ge.globo.com/futebol/times/flamengo/noticia/2022/07/15/flamengo-faz-consulta-por-oscar-e-se-assusta-com-valores.ghtml"
+		"title":"Opinião: o Santos é um deserto de ideias e exigirá muito do futuro novo técnico",
+		"description":"Talvez seja a hora de deixar o DNA ofensivo e, como no ano passado, voltar ao pragmatismo",
+		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/santos.jpeg",
+		"link":"https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2022/07/17/opiniao-o-santos-e-um-deserto-de-ideias-e-exigira-muito-do-futuro-novo-tecnico.ghtml"
 	},
 	{
-		"title":"Escalação do Vasco: time deve ter cinco mudanças contra o Sampaio Corrêa",
-		"description":"Com suspensos e lesionados, Maurício Souza tem desafio para montar o time em São Luís",
-		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/vasco.jpeg",
-		"link":"https://ge.globo.com/futebol/times/vasco/noticia/2022/07/15/escalacao-do-vasco-time-deve-ter-cinco-mudancas-contra-o-sampaio-correa.ghtml"
+		"title":"Grêmio faz duelo direto contra Tombense para abrir distância no G-4 e olhar para cima na Série B",
+		"description":"Com vitória na Arena, time abre seis pontos de vantagem dentro do G-4 para sonhar com título",
+		"image":"https://github.com/Srubens/api-dataDio/blob/main/images/gremio.jpeg",
+		"link":"https://ge.globo.com/rs/futebol/times/gremio/noticia/2022/07/16/gremio-faz-duelo-direto-contra-tombense-para-abrir-distancia-no-g-4-e-olhar-para-cima-na-serie-b.ghtml"
 	}
 ]
